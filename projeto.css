@@ -1,0 +1,17 @@
+.comeco{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    
+
+}
+.botao{
+    background-color: deepskyblue;
+    margin-left: 10px; 
+    border-radius: 5px;
+    cursor: pointer;
+}
+.botao:hover{
+    background-color: rgb(251, 251, 252);
+    
+}
